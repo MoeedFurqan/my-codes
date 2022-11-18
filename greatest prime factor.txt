@@ -1,0 +1,13 @@
+﻿'ainwi1.exe' (Win32): Loaded 'C:\Users\moeed\source\repos\ainwi1\x64\Debug\ainwi1.exe'. Symbols loaded.
+'ainwi1.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'ainwi1.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'ainwi1.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'ainwi1.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'ainwi1.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x2524 has exited with code 0 (0x0).
+'ainwi1.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'ainwi1.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'ainwi1.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+The thread 0x518 has exited with code 0 (0x0).
+The thread 0x2310 has exited with code 0 (0x0).
+The program '[8848] ainwi1.exe' has exited with code 0 (0x0).
