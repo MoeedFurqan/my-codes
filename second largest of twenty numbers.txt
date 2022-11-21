@@ -1,0 +1,21 @@
+#include<stdio.h>
+int main() {
+	int a[20];
+	printf("enter 20 numbers: ");
+	for (int n = 0; n <= 19; n++) {
+		scanf_s("%d", &a[n]);
+	}
+	int i=1, j=1, max;
+	while (i < 20) {
+		for (j = 0; j < 20 - i; j++) {
+			if (a[j] > a[j + 1]) {
+				max = a[j];
+				a[j] = a[j + 1];
+				a[j + 1] = max;
+			}
+		}
+		++i;
+	}
+	printf(" %d is the second largest number from the series", a[18]);
+	}
+	
